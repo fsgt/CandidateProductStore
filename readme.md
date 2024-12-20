@@ -1,9 +1,6 @@
 # CandidateProductStore
 
 ## Projects
-- Demo.App
-- Demo.Abstractions
-
 | Project | Description |
 | - | - |
 | Demo.App | The startup application, containing a HostedService using the store. |
